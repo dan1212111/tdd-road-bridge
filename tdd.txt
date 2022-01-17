@@ -1,0 +1,13 @@
+Return the number of cars currently on the bridge
+Record when a car moves on to the bridge. If a car tries to move on to the bridge when it is at capacity, an error should be returned.
+Record when a car moves off the bridge.
+Be able to change the capacity of the bridge (for example, when there is high winds less cars are allowed on).
+Close the bridge completely (for example, in the case of an accident). Cars that are on the bridge when it is closed should be still be able to move off the bridge but no new cars should be allowed on.
+Reopen the bridge when it is closed.
+
+
+/ Create a getAllCarsOnBridge function - DONE
+/ ADD cars Off/On/Already-On - DONE
+/ Create an If statement that would show txt when bridge capacity is full depending on the weather - DONE
+/ Create a If accident statement to close the bridge - DONE 
++ completed the rest 
